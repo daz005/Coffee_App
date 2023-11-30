@@ -31,5 +31,5 @@
 
 ---
 
-[WEEK 10- Sprint 3 Review -aka- thirdRunEnd](files/11-29-2022-sprint-3-review.md)<br>
+[WEEK 10- Sprint 3 Review -aka- ThirdRunEnd](files/11-29-2022-sprint-3-review.md)<br>
 [WEEK 10- Retrospective 4](files/retrospective-11-29-2022.md)<br>
