@@ -1,0 +1,21 @@
+***WEEK 10 - Sprint 3 Review Aka ThirdRunEnd***
+---
+- Date: 11/29
+---
+- Place: Over Zoom
+---
+Team member info:<br>
+- [x] Matthieu Dante Pardin - Team Lead (mpardin@ucsd.edu)<br>
+- [x] Sarkis Bouzikian - Team Lead (sbouzikian@ucsd.edu)<br>
+- [x] Alexander Kourjanski - Planner (akourjan@ucsd.edu)<br>
+- [x] Daniel Ziper - Designer (dziper@ucsd.edu)<br>
+- [X] Derek Zhu - Developer (daz005@ucsd.edu)<br>
+- [x] Eric Tran - Developer (e7tran@ucsd.edu)<br>
+- [x] Ella Tung - Developer (etung@ucsd.edu)
+---
+- Merge to main the most work done 
+- Discuss the pipelining issues that we are facing and how to work as team to make it work 
+- Divide into 3 teams 
+- All hands on deck to make the phase 1 pipelining work 
+- Team Dante Derek Alex working on lintering and different CI/CD implementation
+- Sarkis team working on JSDOC (edit the team decided to manualy document each js file to maximize efficiency)
