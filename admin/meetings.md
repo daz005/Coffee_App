@@ -17,7 +17,7 @@
 [WEEK 6-CodeRun2](files/11-3-2022-CodeRun2.md)<br>
 
 ---
-[WEEK 7-FristRun](files/11-8-2022-FirstRun.md)<br>
+[WEEK 7-FirstRun](files/11-8-2022-FirstRun.md)<br>
 
 ---
 
