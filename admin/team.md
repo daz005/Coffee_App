@@ -21,7 +21,7 @@ Hey im Sarkis, Computer engineering student, Some programming languages that I u
 Github Link:https://github.com/oplikos
 
 3. Derek\
-Hello everyone! My name is Derek, and I am a 3rd year Computer Science student in ERC. I have a range of interests, from sports such as skating and badminton to playing video games and reading sci-fi novels. I love Computer Science and Technology in general, and have experience in Java, Python, C++, and C. My favourite caffeine drink has to be just a nice, regular freshly brewed matcha latte, early in the morning or even late at night. Find out more about me on [Github](https://github.com/daz005)!
+Hello everyone! My name is Derek, and I am a 4th year Computer Science student in ERC. I have a range of interests, from sports such as skating and badminton to playing video games and reading sci-fi novels. I love Computer Science and Technology in general, and have experience in Java, Python, C++, and C. My favourite caffeine drink has to be just a nice, regular freshly brewed matcha latte, early in the morning or even late at night. Find out more about me on [Github](https://github.com/daz005)!
 
 4. Daniel\
 Hi I'm Daniel, my major is Computer Engineering, and I love mechanical keyboards and drinking caffeinated fruity black teas. You can find out more about me on [my page](https://dziper.github.io/mypages/).
