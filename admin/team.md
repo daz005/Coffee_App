@@ -1,5 +1,4 @@
- ![caffeinatedText](https://user-images.githubusercontent.com/39254531/196010304-84a2632c-d89d-416d-bda7-bc0baf86211b.png)
- # Caffeinated Group Page
+# Caffeinated Group Page
 
  ## Who We Are
  We are caffeinated, literally! We turn caffeine into code. 
