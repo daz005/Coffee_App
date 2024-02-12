@@ -1,8 +1,8 @@
-# CAFFEINATED #
+# CAFFEINATED: A New Coffee App #
 
-![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo2.png)
+![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo.png)
 
-***Software Engineering Project***
+***Software Engineering Timeline***
 
 [LINK TO PRESENTATION](https://docs.google.com/presentation/d/1lylHWbRWt6L77PrwWmXkCXjSWTTvJZxPkr5Mr8x2PSA/edit#slide=id.p)<br>
 
@@ -18,4 +18,4 @@
 
 [IOS](https://github.com/cse110-fa22-group11/cse110-fa22-group11/raw/main/app/ios/CaffeinatedIOS.tar.gz)<br>
 
-![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo.png)
+![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo2.png)
