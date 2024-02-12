@@ -1,4 +1,5 @@
-# A NEW COFFEE APP 
+# A NEW COFFEE APP. 
+##Enjoy!
 
 [LINK TO PRESENTATION](https://docs.google.com/presentation/d/1lylHWbRWt6L77PrwWmXkCXjSWTTvJZxPkr5Mr8x2PSA/edit#slide=id.p)<br>
 
