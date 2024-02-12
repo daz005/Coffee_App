@@ -1,5 +1,4 @@
 # A NEW COFFEE APP 
-## Software Engineering Project
 
 ![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo.png)
 
