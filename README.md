@@ -1,4 +1,4 @@
-# CAFFEINATED: A New Coffee App #
+# A New Coffee App #
 
 ![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo.png)
 
@@ -16,6 +16,6 @@
 
 [APK](https://github.com/cse110-fa22-group11/cse110-fa22-group11/raw/main/app/android/CaffeinatedAPK.apk)<br>
 
-[IOS](https://github.com/cse110-fa22-group11/cse110-fa22-group11/raw/main/app/ios/CaffeinatedIOS.tar.gz)<br>
+[IOS](https://github.com/cse110-fa22-group11/cse110-fa22-group11/raw/main/app/ios/CaffeinatedIOS.tar.gz)
 
 ![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo2.png)
