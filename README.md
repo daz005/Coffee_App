@@ -1,9 +1,7 @@
-# A New Coffee App 
-## Derek's Version
+# A NEW COFFEE APP 
+## Software Engineering Project
 
 ![ERDIAGRAM](https://github.com/daz005/Software-Engineering-Project/blob/master/test-web/images/logo.png)
-
-***Software Engineering Timeline***
 
 [LINK TO PRESENTATION](https://docs.google.com/presentation/d/1lylHWbRWt6L77PrwWmXkCXjSWTTvJZxPkr5Mr8x2PSA/edit#slide=id.p)<br>
 
